@@ -1,0 +1,16 @@
+E:\[AAA] Study\c#\Practices\MusicBar\bin\Debug\MusicBar.dll
+E:\[AAA] Study\c#\Practices\MusicBar\bin\Debug\MusicBar.pdb
+E:\[AAA] Study\c#\Practices\MusicBar\obj\Debug\MusicBar.csproj.AssemblyReference.cache
+E:\[AAA] Study\c#\Practices\MusicBar\obj\Debug\MusicBar.UserControl1.resources
+E:\[AAA] Study\c#\Practices\MusicBar\obj\Debug\MusicBar.csproj.GenerateResource.cache
+E:\[AAA] Study\c#\Practices\MusicBar\obj\Debug\MusicBar.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\c#\Practices\MusicBar\obj\Debug\MusicBar.dll
+E:\[AAA] Study\c#\Practices\MusicBar\obj\Debug\MusicBar.pdb
+E:\[AAA] Study\Csharp\Practices\MusicBar\bin\Debug\MusicBar.dll
+E:\[AAA] Study\Csharp\Practices\MusicBar\bin\Debug\MusicBar.pdb
+E:\[AAA] Study\Csharp\Practices\MusicBar\obj\Debug\MusicBar.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\MusicBar\obj\Debug\MusicBar.UserControl1.resources
+E:\[AAA] Study\Csharp\Practices\MusicBar\obj\Debug\MusicBar.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\MusicBar\obj\Debug\MusicBar.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\MusicBar\obj\Debug\MusicBar.dll
+E:\[AAA] Study\Csharp\Practices\MusicBar\obj\Debug\MusicBar.pdb

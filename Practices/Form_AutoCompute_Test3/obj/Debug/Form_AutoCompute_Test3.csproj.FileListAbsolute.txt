@@ -1,0 +1,11 @@
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\bin\Debug\Form_AutoCompute_Test3.exe.config
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\bin\Debug\Form_AutoCompute_Test3.exe
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\bin\Debug\Form_AutoCompute_Test3.pdb
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\obj\Debug\Form_AutoCompute_Test3.csproj.AssemblyReference.cache
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\obj\Debug\Form_AutoCompute_Test3.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\obj\Debug\Form_AutoCompute_Test3.frmCompute.resources
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\obj\Debug\Form_AutoCompute_Test3.Properties.Resources.resources
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\obj\Debug\Form_AutoCompute_Test3.csproj.GenerateResource.cache
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\obj\Debug\Form_AutoCompute_Test3.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\obj\Debug\Form_AutoCompute_Test3.exe
+E:\[AAA] Study\c#\Practices\Form_AutoCompute_Test3\obj\Debug\Form_AutoCompute_Test3.pdb

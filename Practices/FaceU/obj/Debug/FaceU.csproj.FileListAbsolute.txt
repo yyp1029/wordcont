@@ -1,0 +1,32 @@
+E:\[AAA] Study\Csharp\Practices\FaceU\bin\Debug\FaceU.exe.config
+E:\[AAA] Study\Csharp\Practices\FaceU\bin\Debug\FaceU.exe
+E:\[AAA] Study\Csharp\Practices\FaceU\bin\Debug\FaceU.pdb
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.Form1.resources
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.Properties.Resources.resources
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.exe
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.pdb
+E:\[AAA] Study\Csharp\Practices\FaceU\bin\Debug\Interop.WMPLib.dll
+E:\[AAA] Study\Csharp\Practices\FaceU\bin\Debug\AxInterop.WMPLib.dll
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\Interop.WMPLib.dll
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\AxInterop.WMPLib.dll
+E:\[AAA] Study\Csharp\Practices\FaceU\obj\Debug\FaceU.csproj.ResolveComReference.cache
+D:\VisualStudio\Practices\FaceU\bin\Debug\FaceU.exe.config
+D:\VisualStudio\Practices\FaceU\bin\Debug\FaceU.exe
+D:\VisualStudio\Practices\FaceU\bin\Debug\FaceU.pdb
+D:\VisualStudio\Practices\FaceU\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio\Practices\FaceU\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.csproj.AssemblyReference.cache
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Practices\FaceU\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio\Practices\FaceU\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.csproj.ResolveComReference.cache
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.Form1.resources
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.Properties.Resources.resources
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.csproj.GenerateResource.cache
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.exe
+D:\VisualStudio\Practices\FaceU\obj\Debug\FaceU.pdb

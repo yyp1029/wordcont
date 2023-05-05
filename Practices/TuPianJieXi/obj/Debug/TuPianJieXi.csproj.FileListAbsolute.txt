@@ -1,0 +1,11 @@
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\bin\Debug\TuPianJieXi.exe.config
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\bin\Debug\TuPianJieXi.exe
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\bin\Debug\TuPianJieXi.pdb
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\obj\Debug\TuPianJieXi.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\obj\Debug\TuPianJieXi.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\obj\Debug\TuPianJieXi.Form1.resources
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\obj\Debug\TuPianJieXi.Properties.Resources.resources
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\obj\Debug\TuPianJieXi.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\obj\Debug\TuPianJieXi.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\obj\Debug\TuPianJieXi.exe
+E:\[AAA] Study\Csharp\Practices\TuPianJieXi\obj\Debug\TuPianJieXi.pdb

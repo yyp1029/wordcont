@@ -1,0 +1,22 @@
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\bin\Debug\Form_ScreenSaver_Test2.exe.config
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\bin\Debug\Form_ScreenSaver_Test2.exe
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\bin\Debug\Form_ScreenSaver_Test2.pdb
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.csproj.AssemblyReference.cache
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.frmScreenSaver.resources
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.Properties.Resources.resources
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.csproj.GenerateResource.cache
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.exe
+E:\[AAA] Study\c#\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.pdb
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\bin\Debug\Form_ScreenSaver_Test2.exe.config
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\bin\Debug\Form_ScreenSaver_Test2.exe
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\bin\Debug\Form_ScreenSaver_Test2.pdb
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.csproj.AssemblyReference.cache
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.frmScreenSaver.resources
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.Properties.Resources.resources
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.csproj.GenerateResource.cache
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.exe
+D:\VisualStudio\Practices\Form_ScreenSaver_Test2\obj\Debug\Form_ScreenSaver_Test2.pdb

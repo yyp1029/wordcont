@@ -1,0 +1,39 @@
+E:\[AAA] Study\c#\Practices\Paint\bin\Debug\Paint.exe.config
+E:\[AAA] Study\c#\Practices\Paint\bin\Debug\Paint.exe
+E:\[AAA] Study\c#\Practices\Paint\bin\Debug\Paint.pdb
+E:\[AAA] Study\c#\Practices\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+E:\[AAA] Study\c#\Practices\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\c#\Practices\Paint\obj\Debug\Paint.Form1.resources
+E:\[AAA] Study\c#\Practices\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\[AAA] Study\c#\Practices\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\[AAA] Study\c#\Practices\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\c#\Practices\Paint\obj\Debug\Paint.exe
+E:\[AAA] Study\c#\Practices\Paint\obj\Debug\Paint.pdb
+E:\[AAA] Study\Csharp\Practices\Paint\bin\Debug\Paint.exe.config
+E:\[AAA] Study\Csharp\Practices\Paint\bin\Debug\Paint.exe
+E:\[AAA] Study\Csharp\Practices\Paint\bin\Debug\Paint.pdb
+E:\[AAA] Study\Csharp\Practices\Paint\bin\Debug\MusicBar.dll
+E:\[AAA] Study\Csharp\Practices\Paint\bin\Debug\MusicBar.pdb
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.Form1.resources
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.csproj.CopyComplete
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.exe
+E:\[AAA] Study\Csharp\Practices\Paint\obj\Debug\Paint.pdb
+D:\VisualStudio\Practices\Paint\bin\Debug\Paint.exe.config
+D:\VisualStudio\Practices\Paint\bin\Debug\Paint.exe
+D:\VisualStudio\Practices\Paint\bin\Debug\Paint.pdb
+D:\VisualStudio\Practices\Paint\bin\Debug\MusicBar.dll
+D:\VisualStudio\Practices\Paint\bin\Debug\MusicBar.pdb
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.Form1.resources
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.exe
+D:\VisualStudio\Practices\Paint\obj\Debug\Paint.pdb

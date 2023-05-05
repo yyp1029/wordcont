@@ -1,0 +1,24 @@
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\bin\Debug\Form_QQ 2.0_Test4.exe.config
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\bin\Debug\Form_QQ 2.0_Test4.exe
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\bin\Debug\Form_QQ 2.0_Test4.pdb
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.csproj.AssemblyReference.cache
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ_2._0_Test4.Properties.Resources.resources
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.csproj.GenerateResource.cache
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.exe
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.pdb
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ_2._0_Test4.frmLogin.resources
+E:\[AAA] Study\c#\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ_2._0_Test4.frmMain.resources
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\bin\Debug\Form_QQ 2.0_Test4.exe.config
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\bin\Debug\Form_QQ 2.0_Test4.exe
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\bin\Debug\Form_QQ 2.0_Test4.pdb
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ_2._0_Test4.frmLogin.resources
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ_2._0_Test4.frmMain.resources
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ_2._0_Test4.Properties.Resources.resources
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.exe
+E:\[AAA] Study\Csharp\Practices\Form_QQ 2.0_Test4\obj\Debug\Form_QQ 2.0_Test4.pdb

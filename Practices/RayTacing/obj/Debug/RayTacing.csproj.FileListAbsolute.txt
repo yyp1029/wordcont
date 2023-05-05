@@ -1,0 +1,11 @@
+E:\[AAA] Study\Csharp\Practices\RayTacing\obj\Debug\RayTacing.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\RayTacing\obj\Debug\RayTacing.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\Csharp\Practices\RayTacing\obj\Debug\RayTacing.Properties.Resources.resources
+E:\[AAA] Study\Csharp\Practices\RayTacing\obj\Debug\RayTacing.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\RayTacing\obj\Debug\RayTacing.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\RayTacing\bin\Debug\RayTacing.exe.config
+E:\[AAA] Study\Csharp\Practices\RayTacing\bin\Debug\RayTacing.exe
+E:\[AAA] Study\Csharp\Practices\RayTacing\bin\Debug\RayTacing.pdb
+E:\[AAA] Study\Csharp\Practices\RayTacing\obj\Debug\RayTacing.exe
+E:\[AAA] Study\Csharp\Practices\RayTacing\obj\Debug\RayTacing.pdb
+E:\[AAA] Study\Csharp\Practices\RayTacing\obj\Debug\RayTacing.Form1.resources

@@ -1,0 +1,11 @@
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.Form1.resources
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.Properties.Resources.resources
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\bin\Debug\MoLiPPt.exe.config
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\bin\Debug\MoLiPPt.exe
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\bin\Debug\MoLiPPt.pdb
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.exe
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.pdb

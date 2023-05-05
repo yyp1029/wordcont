@@ -1,0 +1,28 @@
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\bin\Debug\MoLiPPt.exe.config
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\bin\Debug\MoLiPPt.exe
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\bin\Debug\MoLiPPt.pdb
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.Properties.Resources.resources
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.exe
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoLiPPt.pdb
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoNiPPt.Form1.resources
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\bin\Debug\MusicBar.dll
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\bin\Debug\MusicBar.pdb
+E:\[AAA] Study\Csharp\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.CopyComplete
+D:\VisualStudio\Practices\MoLiPPt\bin\Debug\MoLiPPt.exe.config
+D:\VisualStudio\Practices\MoLiPPt\bin\Debug\MoLiPPt.exe
+D:\VisualStudio\Practices\MoLiPPt\bin\Debug\MoLiPPt.pdb
+D:\VisualStudio\Practices\MoLiPPt\bin\Debug\MusicBar.dll
+D:\VisualStudio\Practices\MoLiPPt\bin\Debug\MusicBar.pdb
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.AssemblyReference.cache
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoNiPPt.Form1.resources
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoLiPPt.Properties.Resources.resources
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.GenerateResource.cache
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoNiPPt.csproj.CopyComplete
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoLiPPt.exe
+D:\VisualStudio\Practices\MoLiPPt\obj\Debug\MoLiPPt.pdb

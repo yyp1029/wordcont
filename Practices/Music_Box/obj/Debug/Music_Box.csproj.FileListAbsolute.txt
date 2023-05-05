@@ -1,0 +1,49 @@
+E:\[AAA] Study\c#\Practices\Music_Box\bin\Debug\Music_Box.exe.config
+E:\[AAA] Study\c#\Practices\Music_Box\bin\Debug\Music_Box.exe
+E:\[AAA] Study\c#\Practices\Music_Box\bin\Debug\Music_Box.pdb
+E:\[AAA] Study\c#\Practices\Music_Box\obj\Debug\Music_Box.csproj.AssemblyReference.cache
+E:\[AAA] Study\c#\Practices\Music_Box\obj\Debug\Music_Box.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\c#\Practices\Music_Box\obj\Debug\Music_Box.frmMusicBox.resources
+E:\[AAA] Study\c#\Practices\Music_Box\obj\Debug\Music_Box.Properties.Resources.resources
+E:\[AAA] Study\c#\Practices\Music_Box\obj\Debug\Music_Box.csproj.GenerateResource.cache
+E:\[AAA] Study\c#\Practices\Music_Box\obj\Debug\Music_Box.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\c#\Practices\Music_Box\obj\Debug\Music_Box.exe
+E:\[AAA] Study\c#\Practices\Music_Box\obj\Debug\Music_Box.pdb
+E:\[AAA] Study\Csharp\Practices\Music_Box\bin\Debug\Music_Box.exe.config
+E:\[AAA] Study\Csharp\Practices\Music_Box\bin\Debug\Music_Box.exe
+E:\[AAA] Study\Csharp\Practices\Music_Box\bin\Debug\Music_Box.pdb
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.csproj.AssemblyReference.cache
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.csproj.SuggestedBindingRedirects.cache
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.frmMusicBox.resources
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.Properties.Resources.resources
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.csproj.GenerateResource.cache
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.csproj.CoreCompileInputs.cache
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.exe
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.pdb
+E:\[AAA] Study\Csharp\Practices\Music_Box\bin\Debug\Interop.WMPLib.dll
+E:\[AAA] Study\Csharp\Practices\Music_Box\bin\Debug\AxInterop.WMPLib.dll
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Interop.WMPLib.dll
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\AxInterop.WMPLib.dll
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.csproj.ResolveComReference.cache
+E:\[AAA] Study\Csharp\Practices\Music_Box\bin\Debug\MusicBar.dll
+E:\[AAA] Study\Csharp\Practices\Music_Box\bin\Debug\MusicBar.pdb
+E:\[AAA] Study\Csharp\Practices\Music_Box\obj\Debug\Music_Box.csproj.CopyComplete
+D:\VisualStudio\Practices\Music_Box\bin\Debug\Music_Box.exe.config
+D:\VisualStudio\Practices\Music_Box\bin\Debug\Music_Box.exe
+D:\VisualStudio\Practices\Music_Box\bin\Debug\Music_Box.pdb
+D:\VisualStudio\Practices\Music_Box\bin\Debug\MusicBar.dll
+D:\VisualStudio\Practices\Music_Box\bin\Debug\MusicBar.pdb
+D:\VisualStudio\Practices\Music_Box\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio\Practices\Music_Box\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.csproj.AssemblyReference.cache
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio\Practices\Music_Box\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.csproj.ResolveComReference.cache
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.frmMusicBox.resources
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.Properties.Resources.resources
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.csproj.GenerateResource.cache
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.csproj.CopyComplete
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.exe
+D:\VisualStudio\Practices\Music_Box\obj\Debug\Music_Box.pdb
